@@ -1,0 +1,37 @@
+.display{
+    height: 8rem;
+    width: 18rem;
+  background-color: antiquewhite;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+ 
+}
+.displayp{
+    font-size:xx-large; 
+    margin-top: 1rem;
+    height: 3rem;
+    width: 17rem;
+    padding:0  ;
+   margin-left: 0.4rem;
+    text-align: end;
+    
+  
+    border-radius: 0.4rem;
+  
+}
+
+
+
+
+.displayAns{
+    padding-left: 1rem;
+   
+    margin-bottom: 0;
+
+    padding-bottom: 1rem;
+    padding-top: 0.5rem;
+    text-align: end;
+    padding-right:  1rem;
+   
+   
+}

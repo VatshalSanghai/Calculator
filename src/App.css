@@ -1,0 +1,18 @@
+.app{
+  
+ justify-content: center;
+ align-items: center;
+  height: 30.2rem;
+  width: 18rem;
+  margin: auto;
+  border: 1px solid black;
+  border-radius: 1rem;
+padding: auto;
+flex-direction: column;
+box-shadow: 0.5px 0.5px 5px  0.5px black;
+}
+
+.appC{
+  justify-content: center;
+ align-items: center;
+}
