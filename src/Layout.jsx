@@ -1,4 +1,4 @@
-import Button from "./button"
+import Button from "./Button"
 import './Layout.css';
 import FuncButton from "./FuncButton";
 import { useState } from "react";
